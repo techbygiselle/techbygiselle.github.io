@@ -8,4 +8,14 @@ h2 {
     font-weight: 400;
     font-style: normal;
   }
-  
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  header {
+    text-align: center;
+    background: url('http://dash.ga.co/assets/jeff-bg.png');
+    background-size: cover;
+    color: white;
+  }
