@@ -1,0 +1,26 @@
+body {
+
+    background-color: rgb(247, 129, 84);
+}
+h2 {
+    text-align: center;
+    font-family: "Emblema One", system-ui;
+}
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+  }
+.needy {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    text-align: center;
+    background: url(images/kitty.jpeg);
+    background-size: cover;
+    padding: 20px 0px 0px 10px;
+}
