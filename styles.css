@@ -24,3 +24,6 @@ header {
     background-size: cover;
     padding: 0px 10px 0px 10px;
 }
+h1 {
+    font-size: larger;
+}
