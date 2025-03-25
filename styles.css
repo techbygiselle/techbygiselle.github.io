@@ -20,7 +20,7 @@ li {
 }
 header {
     text-align: center;
-    background: url(/images/kitty.jpeg);
+    background-color: palevioletred;
     background-size: cover;
     padding: 0px 10px 0px 10px;
 }
